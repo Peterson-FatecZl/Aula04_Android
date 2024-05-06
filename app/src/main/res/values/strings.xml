@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora de idade</string>
+    <string name="tvDiaNascimento">Insira o Dia de Nascimento</string>
+    <string name="etDiaNascimento">Dia de Nascimento</string>
+    <string name="tvMesNascimento">Insira o Mês de Nascimento</string>
+    <string name="etMesNascimento">Mês de Nascimento</string>
+    <string name="tvAnoNascimento">Insira o Ano de Nascimento</string>
+    <string name="etAnoNascimento">Ano de Nascimento</string>
+    <string name="btnCalcula">Calcular Idade</string>
+    <string name="tvIdade">Sua idade em dias é: </string>
+</resources>
